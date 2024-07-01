@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /admin/
+
+Disallow: /tmp/
+
+Disallow: /private/
+
+Disallow: /cart/
+
+Disallow: /checkout/
+
+Disallow: /user/
+
+Disallow: /search/
+
+Disallow: /wishlist/
+
+Disallow: /compare/
+
+
+
+
